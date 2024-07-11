@@ -1,34 +1,27 @@
-body{
-    background-color: green;
+img{
+    height: 500px;
 }
-div{
-    background-color: white;
-    margin: 50px 5px 30px 5px; 
-    padding-bottom: 30px;
-    border-radius: 15px;
-    width: 500px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 60px;
+.a1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+p,h5{
+    color: black;
+}
+.a2{
+    margin-top: 20px;
+    display: flex;
+    justify-content:space-around;
+    align-content: center;
     
 }
-h2,p,input,button,ol{
-    margin-left: 30px;
+.a3{
+    display: flex;
+    width: 400px;
+    justify-content: center;
+    align-content: center;
 }
-#one h2{
-    padding-top: 20px;
-}
-button{
-    border-radius: 15px;
-    padding:5px 15px 5px 15px;
-    border: none;
-}
-#o,#t{
-    background-color: rgb(34, 174, 209);
-}
-#th{
-    background-color: rgb(138, 50, 50);
-}
-#f{
-    background-color: rgb(90, 163, 48);
+.a5{
+    color: white;
 }

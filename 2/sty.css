@@ -1,0 +1,34 @@
+body{
+    background-color: green;
+}
+div{
+    background-color: white;
+    margin: 50px 5px 30px 5px; 
+    padding-bottom: 30px;
+    border-radius: 15px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    
+}
+h2,p,input,button,ol{
+    margin-left: 30px;
+}
+#one h2{
+    padding-top: 20px;
+}
+button{
+    border-radius: 15px;
+    padding:5px 15px 5px 15px;
+    border: none;
+}
+#o,#t{
+    background-color: rgb(34, 174, 209);
+}
+#th{
+    background-color: rgb(138, 50, 50);
+}
+#f{
+    background-color: rgb(90, 163, 48);
+}
